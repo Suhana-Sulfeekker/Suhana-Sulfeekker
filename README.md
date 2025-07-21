@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Suhana Sulfeekker</h1>
-<h3 align="center">Full-Stack Developer | AI & Data Science Explorer | B.Tech CSE @ MEC</h3>
+<h3 align="center">Full-Stack Developer | AI & Data Analytics | B.Tech CSE @ MEC</h3>
 
 <p align="center">
   <a href="mailto:suhanasulfeekker04@gmail.com">
