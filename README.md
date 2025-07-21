@@ -15,27 +15,20 @@
 
 ---
 
-💡 **Experience in building full stack web projects**  
+💡 **Experience in building full stack web projects with an AI twist to it**  
 ✨ I build digital experiences that bridge utility with simplicity  
-🌱 Currently learning more about Machine Learning, Web Dev & Data Analytics
+🌱 Currently learning more about Machine Learning, Web Dev & Data Science
 
 ---
 
 ### 🔭 What I've Worked On
 
-- 🏥 **HMS** – Your all-in-one hospital operations hub — streamlining everything from appointments to administration for doctors, patients, and healthcare staff.  
 - 💸 **Wyzo** – Your personal finance superhero — from budgeting and spending to future goals and wishlists, with a built-in AI buddy by your side.  
-- 🐾 **PawPatrol** – Crowdsourced stray dog sighting reporting & tracking platform 
-
----
-
-### 🧠 Bio
-
-- Experience creating full-stack applications using **React**, **Node**, **Express**, **Firebase**, **Supabase**, **MySQL**, and **Python**  
-- Beginner in data analytics and visualization with **NumPy**, **Pandas**, **Matplotlib**, and **Jupyter Notebook**
-
----
-
+- 🐾 **PawPatrol** – Crowdsourced stray dog sighting reporting & tracking platform with real time location detection and open source map integration.
+- 📈 **ViralIQ** - A solution for brands to analyse the current market pulse across social media platforms and analyse trends and generate social media marketing strategies.
+- 💊 **Medaura** - AI-powered health assistant designed to analyze symptoms, summarize lab reports, and answer medical questions using LLaMA3-OpenBioLLM-70B
+- 🏥 **HMS** – Your all-in-one hospital operations hub — streamlining everything from appointments to administration for doctors, patients, and healthcare staff.
+  
 ## 💻 Tech Stack
 
 <p align="center">
@@ -59,15 +52,19 @@
   <b>Backend & Platforms</b><br><br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 </p>
 
 <p align="center">
   <b>Databases</b><br><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -87,24 +84,12 @@
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhana-Sulfeekker&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana-Sulfeekker&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suhana-Sulfeekker&theme=algolia&no-bg=true&margin-w=10&column=6" />
 </p>
 
 ---
